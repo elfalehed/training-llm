@@ -1,6 +1,6 @@
 # LLM Training Repository
 
-![Flowchart: Training an LLM](https://raw.githubusercontent.com/elfalehed/training-llm/llm-flowchart.png)
+![Flowchart: Training an LLM](https://raw.githubusercontent.com/elfalehed/training-llm/main/llm-flowchart.png)
 
 This repository contains a modular implementation for training Language Learning Models (LLMs) using PyTorch and Hugging Face Transformers.
 
